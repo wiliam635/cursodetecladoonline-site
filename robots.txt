@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tecladoonline.com.br/sitemap.xml
+Sitemap: https://cursodetecladoonline.com.br/sitemap.xml
